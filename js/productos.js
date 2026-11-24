@@ -1,0 +1,6 @@
+export const productos = [
+  { id: "1", nombre: "thinkpad T14 Gen 7", img: "img/thinkpadT14.jpg", precio: 2500000 },
+  { id: "2", nombre: "thinkpad E16", img: "img/thinkpadE16.jpg", precio: 2000000 },
+  { id: "3", nombre: "Ideal series", img: "img/ideapadSeries.jpg", precio: 2500000 },
+  { id: "4", nombre: "Yoga Pro", img: "img/yogaPro.jpg", precio: 6000000 },
+];
